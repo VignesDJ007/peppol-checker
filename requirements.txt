@@ -1,8 +1,4 @@
 pandas
-numpy
-requests
-dnspython
 ipywidgets
 fuzzywuzzy
 python-Levenshtein
-zeep
